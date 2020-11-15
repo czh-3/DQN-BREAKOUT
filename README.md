@@ -1,7 +1,7 @@
 # DQN-BREAKOUT
 The implement of DQN / PRE-DQN / Dueling DQN on Breakout.
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————  
 SYSU 高级算法期中project
 dqn-breakout-main 中是给定实现，对代码进行了注释
 PRE-DQN 实现了Prioritized Experience Replay
